@@ -38,11 +38,13 @@ I am a 3rd-year Computer Engineering student at Ankara University, a maker, and 
 <br/>
 
 ## 📊 GitHub Stats & Top Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Geckonaril&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geckonaril&layout=compact&hide_border=true&theme=tokyonight" width="48%" />
-</div>
 
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geckonaril&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400)](https://github.com/Geckonaril)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Geckonaril&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400)](https://github.com/Geckonaril)
+
+</div>
 <br/>
 
 ## 👀 Profile Views
