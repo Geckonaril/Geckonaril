@@ -37,12 +37,11 @@ I am a 3rd-year Computer Engineering student at Ankara University, a maker, and 
 
 <br/>
 
-## 📊 GitHub Stats & Top Languages
+## 📊 GitHub İstatistikleri
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geckonaril&show_icons=true&hide_border=true&theme=tokyonight&v=1)](https://github.com/Geckonaril)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Geckonaril&layout=compact&hide_border=true&theme=tokyonight&v=1)](https://github.com/Geckonaril)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Geckonaril&theme=tokyonight&hide_border=true)](https://github.com/Geckonaril)
 
 </div>
 <br/>
