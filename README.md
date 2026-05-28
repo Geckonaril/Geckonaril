@@ -7,7 +7,7 @@
   </a>
 </div>
 
-## Hi there 👋 I'm Serhat Burak Özbakır
+## Hi there 👋 I'm Serhat Burak
 
 I am a 3rd-year Computer Engineering student at Ankara University, a maker, and a developer passionate about building, optimizing, and securing systems.
 
