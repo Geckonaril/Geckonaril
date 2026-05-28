@@ -41,8 +41,8 @@ I am a 3rd-year Computer Engineering student at Ankara University, a maker, and 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geckonaril&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&cache_seconds=86400)](https://github.com/Geckonaril)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Geckonaril&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400)](https://github.com/Geckonaril)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geckonaril&show_icons=true&hide_border=true&theme=tokyonight&v=1)](https://github.com/Geckonaril)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Geckonaril&layout=compact&hide_border=true&theme=tokyonight&v=1)](https://github.com/Geckonaril)
 
 </div>
 <br/>
