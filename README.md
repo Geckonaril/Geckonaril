@@ -9,7 +9,7 @@
 
 ## Hi there 👋 I'm Serhat Burak
 
-I am a 3rd-year Computer Engineering student at Ankara University, a maker, and a developer passionate about building, optimizing, and securing systems.
+I am a 4th-year Computer Engineering student at Ankara University, a maker, and a developer passionate about building, optimizing, and securing systems.
 
 - 🔭 Currently focusing on **Cybersecurity**, **Reverse Engineering**, and **Vulnerability Hunting**.
 - 💻 Developing tools and systems using **C, Python, and Assembly (x86-64 / RISC-V)**.
