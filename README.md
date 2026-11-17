@@ -1,53 +1,38 @@
-<div align="center">
-  <!-- Kendi tasarladığın Aseprite pixel art GIF'ini buraya ekleyebilirsin -->
-  <!-- <img src="SENIN_GIF_LINKIN_BURAYA" width="250" alt="Pixel Art Animation"/> -->
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;C%2C+Python+%26+Assembly+Developer;Reverse+Engineering;Cloud+%26+AWS+Projects" alt="Typing SVG" />
-  </a>
-</div>
+<!-- Profile README — Geckonaril --><div align="left">Serhat Burak Özbakır
+Computer Engineering · Ankara University
+Software engineering / cybersecurity / research
 
-## Hi there 👋 I'm Serhat Burak
+I build and study systems with an emphasis on security, low-level programming, and practical engineering. My interests span reverse engineering, vulnerability research, cloud infrastructure, and AI security.
 
-I am a 4th-year Computer Engineering student at Ankara University, a maker, and a developer passionate about building, optimizing, and securing systems.
+LinkedIn · GitHub · itch.io · Instagram
+</div>Focus
+Area	What I work on
+Security	Reverse engineering, vulnerability research, secure systems
+Systems	C, Python, x86-64 / RISC-V assembly, networking
+Cloud	AWS infrastructure and security-oriented applications
+Research	AI security and interdisciplinary engineering
+Creative work	Game jams, 2D pixel art, Aseprite
 
-- 🔭 Currently focusing on **Cybersecurity**, **Reverse Engineering**, and **Vulnerability Hunting**.
-- 💻 Developing tools and systems using **C, Python, and Assembly (x86-64 / RISC-V)**.
-- ☁️ Building cloud architecture and malware detection projects with **AWS** (Lambda, S3, RDS, EC2).
-- 🚀 Actively working on multi-disciplinary engineering projects like satellite communications and electronic warfare for **TEKNOFEST**.
-- 🌱 I create **2D pixel art** using **Aseprite** and have participated in over 6 Game Jams! Check out my artwork on my [itch.io](https://geckonaril.itch.io) page.
 
-<br/>
-
-## 🌐 Connect with me
-<div align="left">
-  <a href="https://instagram.com/geckonaril" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://github.com/Geckonaril" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/geckonaril" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/serhatburakozbakir" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-  </a>
-</div>
-
-<br/>
-
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Geckonaril&theme=tokyonight&hide_border=true)](https://github.com/Geckonaril)
-
-</div>
-<br/>
-
-## 👀 Profile Views
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Geckonaril&style=for-the-badge&color=24292e" alt="Profile Views" />
-</div>
-
+Selected work
+- Systems & security — Building tools and learning through low-level programming and security research.
+- Cloud projects — Working with AWS services including Lambda, S3, RDS, and EC2.
+- Engineering projects — Interdisciplinary projects involving communications and electronic warfare.
+- Game development — Participated in 6+ game jams; artwork and projects on itch.io.
+GitHub activity
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Geckonaril&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a9c7f2&text_color=c4cedc&icon_color=8faed8&ring_color=8faed8&include_all_commits=true&rank_icon=github">
+    <img height="165" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Geckonaril&show_icons=true&hide_border=true&bg_color=ffffff&title_color=274b75&text_color=334155&icon_color=527aaa&include_all_commits=true&rank_icon=github">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Geckonaril&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=a9c7f2&text_color=c4cedc">
+    <img height="165" alt="Most-used languages across public GitHub repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geckonaril&layout=compact&langs_count=6&hide_border=true&bg_color=ffffff&title_color=274b75&text_color=334155">
+  </picture>
+</p><p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Geckonaril&bg_color=0d1117&color=a9c7f2&line=7297c8&point=c8daef&area=true&area_color=7297c8&hide_border=true&custom_title=Contribution%20activity">
+    <img width="100%" alt="Recent contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Geckonaril&bg_color=ffffff&color=274b75&line=527aaa&point=274b75&area=true&area_color=527aaa&hide_border=true&custom_title=Contribution%20activity">
+  </picture>
+</p><sub>Statistics are generated by third-party services and reflect the repositories and events available to them. Language percentages are based on repository code, not proficiency.</sub>
+<sub>Interested in systems engineering, security, or research? Connect via LinkedIn.</sub>
