@@ -4,30 +4,58 @@
 
 **Computer Engineering · Ankara University**  
 
-cybersecurity / research
+AI Security / LLM Security / Security Research
 
-I build and study systems with an emphasis on security, low-level programming, and practical engineering. My interests span reverse engineering, vulnerability research, cloud infrastructure, and AI security.
+I work on the security of language-model systems, with a particular interest in indirect prompt injection, trust boundaries, and empirical security evaluation. My current research focuses on building reproducible datasets and evaluation workflows that test how models respond to adversarial instructions embedded in otherwise legitimate content.
 
 [LinkedIn](https://linkedin.com/in/serhatburakozbakir) · [itch.io](https://geckonaril.itch.io)
 
 ---
 
-### Focus
+### Current research
 
-| Area | What I work on |
+#### [TR–EN Indirect Prompt Injection Dataset](https://github.com/meryem-ciftci/LLM-Prompt-Injection-Dataset)
+
+*A bilingual benchmark for studying indirect prompt injection detection and attack success.*
+
+The project creates labeled Turkish/English examples from real source text, then evaluates whether language models follow unauthorized instructions hidden in untrusted material such as retrieved passages and documents. Its design separates **what the text says** from **where the instruction comes from**.
+
+| Pilot v1 (0.2.0) | Research setup |
 | :--- | :--- |
-| **Security** | Reverse engineering, vulnerability research, secure systems |
-| **Systems** | C, Python, x86-64 / RISC-V assembly, networking |
-| **Cloud** | AWS infrastructure and security-oriented applications |
-| **Research** | AI security and interdisciplinary engineering |
-| **Creative work** | Game jams, 2D pixel art, Aseprite |
+| **600 records** | 150 matched, four-member families |
+| **2 languages** | Turkish and English |
+| **7 attack goals** | Including task hijacking, content manipulation, and prompt leakage |
+| **3,750 model responses** | Five local models evaluated in EXP-004b |
 
-### Selected work
+**What the research examines**
 
-- **Systems & security** — Building tools and learning through low-level programming and security research.
-- **Cloud projects** — Working with AWS services including Lambda, S3, RDS, and EC2.
-- **Engineering projects** — Interdisciplinary projects involving communications and electronic warfare.
-- **Game development** — Participated in 6+ game jams; artwork and projects on [itch.io](https://geckonaril.itch.io).
+- **Trust-boundary reasoning:** comparing injected untrusted content with authorized versions of the same instructions.
+- **Dataset engineering:** reproducible generation, injection-span labels, provenance tracking, and source-disjoint splits.
+- **Security evaluation:** deterministic attack-success checks, paired controls, false positives, and task utility.
+- **Experimental factors:** attack goals, obfuscation, language, context length, and injection position.
+
+[Explore the repository](https://github.com/meryem-ciftci/LLM-Prompt-Injection-Dataset) · [Dataset documentation](https://github.com/meryem-ciftci/LLM-Prompt-Injection-Dataset/blob/main/docs/DATA_CARD.md) · [Pilot evaluation report](https://github.com/meryem-ciftci/LLM-Prompt-Injection-Dataset/blob/main/evaluation/reports/EXP-004b.md)
+
+<sub>Pilot figures refer to the repository's v1 release and EXP-004b, not a continually updated live benchmark. Results are exploratory and specific to the evaluated models and conditions.</sub>
+
+---
+
+### Research interests
+
+| Primary | Adjacent areas |
+| :--- | :--- |
+| LLM security and prompt injection | Multi-agent authorization and delegation |
+| Adversarial evaluation and benchmarks | Secure software and system design |
+| Dataset generation and data quality | Reverse engineering and low-level systems |
+| Trust boundaries and instruction provenance | Local model infrastructure and experimentation |
+
+### Technical work
+
+**Languages:** Python · C · C++ · Assembly (x86-64 / RISC-V)  
+**Research workflows:** dataset pipelines · JSONL / structured data · automated validation · experiment tracking · local LLM evaluation (Ollama)  
+**Other experience:** networking · AWS (Lambda, S3, RDS, EC2) · game development and pixel art
+
+I also explore how **authorization drift and prompt injection** can interact in multi-agent systems. This is an ongoing research direction rather than a completed benchmark.
 
 ### GitHub activity
 
